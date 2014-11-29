@@ -1,7 +1,7 @@
 require File.dirname(__FILE__) + '/../../game'
 
 
-When(/^star a new game with success$/) do
+When(/^start a new game with success$/) do
   @game = Game.new
   @game.start
 end

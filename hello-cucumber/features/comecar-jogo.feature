@@ -6,7 +6,7 @@ Feature: Init game
   Scenario: Game start with success
     On game start is showed a alert with game is initiated
 
-    When star a new game with success
+    When start a new game with success
     Then I see the below text in the screen:
       """
       Welcome to game!
