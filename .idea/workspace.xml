@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Stack/stack_spec.rb" line="28" />
+    <bookmark url="file://$PROJECT_DIR$/../TDDandBDDStudies/Stack/stack_spec.rb" line="28" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae3345d8-f084-4123-a780-11753459c297" name="Default" comment="" />
@@ -22,7 +22,7 @@
     <SUITE FILE_PATH="coverage/RspecEstudos@Stack_push__RspecEstudos.coverage" NAME="Stack#push: RspecEstudos Coverage Results" MODIFIED="1417204291677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stack" MODULE_NAME="RspecEstudos" />
     <SUITE FILE_PATH="coverage/RspecEstudos@Fizzbuzz_return_nil_if_number_is_not_divisible_of_3_or_5__RspecEstudos.coverage" NAME="Fizzbuzz return nil if number is not divisible of 3 or 5: RspecEstudos Coverage Results" MODIFIED="1417137183449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FizzBuzz" MODULE_NAME="RspecEstudos" />
     <SUITE FILE_PATH="coverage/RspecEstudos@Stack_push_puts_an_element_at_the_top_of_stack__RspecEstudos.coverage" NAME="Stack#push puts an element at the top of stack: RspecEstudos Coverage Results" MODIFIED="1417206495310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stack" MODULE_NAME="RspecEstudos" />
-    <SUITE FILE_PATH="coverage/RspecEstudos@Stack__RspecEstudos.coverage" NAME="Stack: RspecEstudos Coverage Results" MODIFIED="1417206797758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stack" MODULE_NAME="RspecEstudos" />
+    <SUITE FILE_PATH="coverage/RspecEstudos@Stack__RspecEstudos.coverage" NAME="Stack: RspecEstudos Coverage Results" MODIFIED="1417286388056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stack" MODULE_NAME="RspecEstudos" />
     <SUITE FILE_PATH="coverage/RspecEstudos@calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1417141442559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" MODULE_NAME="RspecEstudos" />
     <SUITE FILE_PATH="coverage/RspecEstudos@Calculator_of_string_should_return_0_if_nil_string__RspecEstudos.coverage" NAME="Calculator of string should return 0 if nil string: RspecEstudos Coverage Results" MODIFIED="1417137166994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" MODULE_NAME="RspecEstudos" />
     <SUITE FILE_PATH="coverage/RspecEstudos@Run_spec__calculator_spec___RspecEstudos.coverage" NAME="Run spec 'calculator_spec': RspecEstudos Coverage Results" MODIFIED="1417203429501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" MODULE_NAME="RspecEstudos" />
@@ -45,41 +45,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="stack_spec.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Stack/stack_spec.rb">
+      <file leaf-file-name="stack_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/Stack/stack_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8463415" vertical-offset="619" max-vertical-offset="1092">
-              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1092">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stack.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stack/stack.rb">
+      <file leaf-file-name="comecar-jogo.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/hello-cucumber/features/comecar-jogo.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="567">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calculator.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Calculator/calculator.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="756">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calculator_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Calculator/calculator_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="861">
-              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.61463416" vertical-offset="0" max-vertical-offset="410">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -169,39 +149,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RspecEstudos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RspecEstudos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RspecEstudos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FizzBuzz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RspecEstudos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RspecEstudos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calculator" />
+              <option name="myItemId" value="TDDandBDDStudies" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -218,6 +166,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/FizzBuzz" />
     </key>
   </component>
@@ -559,7 +508,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="7" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -604,12 +553,12 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="15" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Calculator/calculator_spec.rb">
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/Calculator/calculator_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="861">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
@@ -617,7 +566,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculator/calculator.rb">
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/Calculator/calculator.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="672">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -625,7 +574,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FizzBuzz/fizzbuzz.rb">
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/FizzBuzz/fizzbuzz.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="378">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
@@ -633,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FizzBuzz/fizzbuzz_spec.rb">
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/FizzBuzz/fizzbuzz_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="567">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
@@ -641,7 +590,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FizzBuzz/fizzbuzz.rb">
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/FizzBuzz/fizzbuzz.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
@@ -656,7 +605,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FizzBuzz/fizzbuzz_spec.rb">
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/FizzBuzz/fizzbuzz_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="567">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
@@ -664,7 +613,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculator/calculator.rb">
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/Calculator/calculator.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="756">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
@@ -672,7 +621,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculator/calculator_spec.rb">
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/Calculator/calculator_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="409" max-vertical-offset="861">
           <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
@@ -680,7 +629,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stack/stack.rb">
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/Stack/stack.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="567">
           <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
@@ -688,10 +637,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stack/stack_spec.rb">
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/Stack/stack_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8463415" vertical-offset="619" max-vertical-offset="1092">
-          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1092">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TDDandBDDStudies/hello-cucumber/features/comecar-jogo.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61463416" vertical-offset="0" max-vertical-offset="410">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding />
         </state>
       </provider>
